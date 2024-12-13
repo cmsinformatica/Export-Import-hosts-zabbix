@@ -37,9 +37,9 @@ Certifique-se de configurar as credenciais de acesso à API do Zabbix no(s) scri
 ```python
 # Exemplo de configuração
 api_url = "http://seu-zabbix-url/zabbix/api_jsonrpc.php"
-username = "apiadmin"
-password = "Cris1570@#"
-group_name = "0-GERAL-PI-LEGADO-821"
+username = "SEU USUARIO"
+password = "SUA SENHA#"
+group_name = "SEU GRUPO"
 ```
 > **Nota:** Atualize `api_url`, `username`, `password` e `group_name` de acordo com o seu ambiente Zabbix.
 
